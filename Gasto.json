@@ -1,0 +1,12 @@
+{
+  "accion": "agregar_gasto",
+  "respuesta": "Listo, anote el gasto!",
+  "datos": {
+    "fecha": "2026-05-13",
+    "tipo_gasto": "supermercado",
+    "descripcion": "compras del super",
+    "valor": 50,
+    "moneda": "USD",
+    "autor": "Jero"
+  }
+}

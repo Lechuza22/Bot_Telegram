@@ -1,0 +1,12 @@
+{
+  "accion": "agregar_evento",
+  "respuesta": "Evento agendado!",
+  "datos": {
+    "titulo": "Cena con amigos",
+    "fecha_inicio": "2026-05-15T20:00:00",
+    "fecha_fin": "2026-05-15T23:00:00",
+    "descripcion": "",
+    "lugar": "",
+    "invitados": []
+  }
+}
